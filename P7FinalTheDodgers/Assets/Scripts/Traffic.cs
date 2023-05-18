@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Traffic : MonoBehaviour
 {
+    private float speed = 45;
+    private float forwardInput;
+    
     // Start is called before the first frame update
     void Start()
     {

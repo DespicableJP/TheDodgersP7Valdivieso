@@ -6,6 +6,7 @@ public class RepeatRoad : MonoBehaviour
 {
     private Vector3 startPos;
     private float repeatWidth;
+    
     // Start is called before the first frame update
     void Start()
     {
