@@ -264,8 +264,6 @@ GameObject:
   - component: {fileID: 4742451014850612290}
   - component: {fileID: 3456675234355129344}
   - component: {fileID: 4742451015048806024}
-  - component: {fileID: -6079252505510277363}
-  - component: {fileID: 8299349331263054943}
   m_Layer: 0
   m_Name: Car
   m_TagString: Untagged
@@ -369,6 +367,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbc476bccd5457d408b13e26ebbddcf6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!65 &-6079252505510277363
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -398,6 +397,8 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+=======
+>>>>>>> parent of 8f2843b (Worked on project)
 --- !u!1 &4742451014852579224
 GameObject:
   m_ObjectHideFlags: 0
