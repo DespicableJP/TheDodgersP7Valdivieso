@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
 {
     public float speed;  
     private float horizontalInput;
-    p
+    
     
     
     // Start is called before the first frame update
