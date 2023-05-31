@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Player : MonoBehaviour
 {
     public float speed;  
     private float horizontalInput;
+    p
     
     
     // Start is called before the first frame update
