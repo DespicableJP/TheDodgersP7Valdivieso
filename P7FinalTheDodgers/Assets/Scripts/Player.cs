@@ -7,7 +7,11 @@ public class Player : MonoBehaviour
     private float speed = 75;
     private float turnSpeed = 45.0f;
     private float horizontalInput;
+<<<<<<< HEAD
     private float forwardInput;
+=======
+>>>>>>> parent of d6effbc (Worked on project)
+    
     
     // Start is called before the first frame update
     void Start()

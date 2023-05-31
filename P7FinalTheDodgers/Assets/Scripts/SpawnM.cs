@@ -19,8 +19,8 @@ public class SpawnM : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             int carIndex = Random.Range(0, carPrefabs.Length);
-            
-            Instantiate(carPrefabs[carIndex], new Vector3(Random.Range(20, 1, 145),carPrefabs[carIndex].transform.rotation);
+
+            Instantiate(carPrefabs[carIndex], new Vector3(0, 0, 20), carPrefabs[carIndex].transform.rotation);
         }
     }
 }
